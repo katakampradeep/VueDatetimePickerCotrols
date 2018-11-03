@@ -2,4 +2,5 @@
 /config/
 /dist/
 /*.js
+/src/assets/markers/videojs-markers.js
 /test/unit/coverage/
